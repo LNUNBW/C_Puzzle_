@@ -1,0 +1,11 @@
+#####################################
+#
+#   Puzzle Configuration
+#
+#####################################
+
+NAME: LNUN
+SIZE: 5
+TEST: 1
+DIR:   ./score/
+SCORE: ./score/game_score.txt
